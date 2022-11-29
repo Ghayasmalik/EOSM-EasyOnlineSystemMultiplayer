@@ -6,8 +6,10 @@ again and again lead to problem and time it take to right code that should be ba
 This pack include the Basic Online System where you can login to the Epic service (only epic for now).
 I have made widget system that use level name to get and set all the widgets so all the widget can be
 maintain in one place and called automatically.
+
 Note: This is my way of doing thing and all blueprint are independent so widget and online system can
 be delete or use separately.
+
 Basic needs:
  You will need epic games account.
  Must be Logged in to Epic Online Service and set up product in there.
