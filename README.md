@@ -13,12 +13,18 @@ be delete or use separately.
 
 # Basic needs:
 1 You will need epic games account.
+
 2 Must be Logged in to Epic Online Service and set up product in there.
+
 3 Active internet connection.
+
 4 Advanced Sessions Plugin (open source on GitHub).
+
 5 EOS Plugin to be enable(All plugin with EOS name).
+
 6 Replicated Graph Plugin to be Enable (For bulk data to be formatted in graph and easy
 to handle packages. Good for big player base games).
+
 7 Fill out eos Details in Plugin panal.
 
 All the Logic is in Game Instance Blueprint “GI_EOSM” that control the online system and All
