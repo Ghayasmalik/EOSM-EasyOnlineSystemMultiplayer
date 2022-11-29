@@ -11,15 +11,15 @@ maintain in one place and called automatically.
 Note: This is my way of doing thing and all blueprint are independent so widget and online system can
 be delete or use separately.
 
-Basic needs:
- You will need epic games account.
- Must be Logged in to Epic Online Service and set up product in there.
- Active internet connection.
- Advanced Sessions Plugin (open source on GitHub).
- EOS Plugin to be enable(All plugin with EOS name).
- Replicated Graph Plugin to be Enable (For bulk data to be formatted in graph and easy
+# Basic needs:
+1 You will need epic games account.
+2 Must be Logged in to Epic Online Service and set up product in there.
+3 Active internet connection.
+4 Advanced Sessions Plugin (open source on GitHub).
+5 EOS Plugin to be enable(All plugin with EOS name).
+6 Replicated Graph Plugin to be Enable (For bulk data to be formatted in graph and easy
 to handle packages. Good for big player base games).
- Fill out eos Details in Plugin panal.
+7 Fill out eos Details in Plugin panal.
 
 All the Logic is in Game Instance Blueprint “GI_EOSM” that control the online system and All
 the Game UI/HUD is control from the Widget “Main_HUD”.
