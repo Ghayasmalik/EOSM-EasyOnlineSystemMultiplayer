@@ -27,13 +27,13 @@ the Game UI/HUD is control from the Widget “Main_HUD”.
 Advance sessions plugin is must to have so C++ can be skipped and only blueprints can be use.
 It provide with many great new function that can be use with stream too.
 
-#GI_EOSM:
+# GI_EOSM:
 
 This blueprint is baseline of all the online system and is alive as long as the game/instance is
 running. So your login details and all the online system is available to you in any blueprint in
 editor.
 
-#Main_HUD:
+# Main_HUD:
 This Blueprint Control all the widget that are been shown on the screen at any given time of
 game/instance lifecycle. This use name and number system where level name verify and then Branch
 node is use to select the correct widget to show. This provide one place to handle all the ui things now
